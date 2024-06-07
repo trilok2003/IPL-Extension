@@ -1,0 +1,11 @@
+{
+    "name": "My IPL chrome extention",
+    "version": "1.0.0",
+    "description": "best extention int the world",
+    "manifest_version": 3,
+    "author": "Trilok Singh Thakur",
+    "action":{
+        "default_popup": "index.html",
+        "defaul_title": "my chrome extention"
+    }
+}

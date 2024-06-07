@@ -1,0 +1,12 @@
+body{
+    min-width: 280px;
+    background-color: rgb(47, 46, 46);
+    color: white;
+}
+h3{
+    font-size: 17px;
+    text-align: center;
+}
+#matches{
+    font-size: 14px;
+}
